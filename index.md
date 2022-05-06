@@ -9,8 +9,7 @@ Everything that can be co created can be part of the Canon
 1. NFTs as building blocks of Canon
 2. EIP-2535 Diamonds: Modular smart contracts
 3. CanonDAO: Defines Canon’s rules and chooses which projects are canon of Canon
-4. subDAOs: CanonDAO has a simple way to verify that a project is following Canon’s
-5. 
+4. subDAOs: CanonDAO has a simple way to verify that a project is following Canon’s 
 
 ### 1. NFT
 - the canon content
